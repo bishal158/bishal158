@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mafuj Ahmed Bishal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.I am always eager to learn new technologies and I am always up for a challenge. I am confident that I can quickly learn and adapt to new technologies.As a self-motivated learner and I am always looking for new ways to improve my skills. I am confident and passionate about frontend development and looking for a challenging opportunity so that i can learn and build a healthy career on web development</h3>
-<img align="center" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif" alt="coding" width="500">
-
+<img  src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif" alt="coding" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal158&label=Profile%20views&color=0e75b6&style=flat" alt="bishal158" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal158" alt="bishal158" /></a> </p>
