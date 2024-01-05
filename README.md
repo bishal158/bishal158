@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, Myself Mafuj Ahmed Bishal</h1>
+<h1 align="left">Hi 👋, Myself Mafuj Ahmed Bishal</h1>
+<a href="https://my-portfolio-pi-plum-49.vercel.app/">
+  <img  src="https://github.com/bishal158/bishal158/assets/67275108/b8d532c5-d10f-4bb4-a5a0-863c0f7a9764" alt="coding" width="1000" >
+</a>
 <h4 align="left">A passionate frontend developer from Bangladesh.I am always eager to learn new technologies and I am always up for a challenge. I am confident that I can quickly learn and adapt to new technologies. I am confident and passionate about frontend development and looking for a challenging opportunity so that i can learn and build a healthy career on web development</h4>
-<img  src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif" alt="coding" width="1000" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal158&label=Profile%20views&color=0e75b6&style=flat" alt="bishal158" /> </p>
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on [Food Monkey](https://657e9aaa8c5c270008067ba0--eclectic-hummingbird-5430ab.netlify.app/) and [Mentor Mind](https://65706e9a923b3d0008f25414--shimmering-cucurucho-21c6fe.netlify.app/)<br>👯 I’m looking to collaborate on you<br>🌱 I’m currently learning **React Js**<br>💬 Ask me about **React, Angular, Javascript frontend development**<br>📫 How to reach me **afnanmafuj22@gmail.com**
 
