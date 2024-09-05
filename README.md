@@ -3,10 +3,13 @@
   <img  src="https://github.com/bishal158/bishal158/assets/67275108/b8d532c5-d10f-4bb4-a5a0-863c0f7a9764" alt="coding" width="1000" >
 </a>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal158&label=Profile%20views&color=0e75b6&style=flat" alt="bishal158" /> </p>
 💫 About Me:
 
-🔭 I’m currently working on [Food Monkey](https://657e9aaa8c5c270008067ba0--eclectic-hummingbird-5430ab.netlify.app/) and [Mentor Mind](https://65706e9a923b3d0008f25414--shimmering-cucurucho-21c6fe.netlify.app/)<br>👯 I’m looking to collaborate on you<br>🌱 I’m currently learning **React Js**<br>💬 Ask me about **React, Angular, Javascript frontend development**<br>📫 How to reach me **afnanmafuj22@gmail.com**<br>🌐 Visit my portfolio website **https://my-portfolio2-virid.vercel.app/**
+👋 Hi there! I’m Md Mahfuj Ahmed Bishal, a junior frontend developer at <a href="https://softvence.agency/"> Softvence Ltd </a>. I specialize in building engaging and dynamic web applications using React, along with custom HTML, CSS, and JavaScript.
+
+🚀 My current focus is on mastering frontend technologies, but I’m driven by a passion to expand my skills and knowledge. My dream is to evolve into a full stack developer, integrating both frontend and backend technologies to create seamless, end-to-end solutions.
+
+🔗 Feel free to explore my repositories below to see some of the projects I’ve been working on. I’m always open to collaboration and learning opportunities, so don’t hesitate to reach out!
 
 
 ## 🌐 Socials:
